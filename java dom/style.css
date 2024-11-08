@@ -1,0 +1,16 @@
+#rania{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#foot{
+    width: 60%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
